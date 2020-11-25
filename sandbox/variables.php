@@ -3,7 +3,7 @@
 
 <html lang="en">
   <head>
-    <title>untitled</title>
+    <title>Variables</title>
   </head>
   <body>
       <?php
